@@ -120,3 +120,5 @@ master
 - [RandomNumberGame.py](---) - A Basic Game of Gussesing Numbers .
 master
 master
+
+- [BMI_calculator.py](---) - A BMI calculator was added to the list of programs.
